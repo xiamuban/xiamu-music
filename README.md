@@ -45,6 +45,12 @@
 - macOS
 - Windows 7 及以上
 
+本地开发版本：
+
+- Node v22.12.0
+- Python 3.9.0
+- Visual Studio Build Tools 2022
+
 *移动版项目地址：https://github.com/lyswhut/lx-music-mobile*
 
 *LX Music 项目发展调整与新项目计划：https://github.com/lyswhut/lx-music-desktop/issues/1912*
@@ -157,6 +163,3 @@
 
 9.1 若你使用了本项目，即代表你接受本协议。
 
----
-
-若对此有疑问请 mail to: lyswhut+qq.com (请将 `+` 替换为 `@`)
